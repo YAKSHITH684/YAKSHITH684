@@ -161,7 +161,6 @@ const yakshith = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YAKSHITH684&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=7B42F6&text_color=FFFFFF&count_private=true&include_all_commits=true" />
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YAKSHITH684&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=7B42F6&currStreakLabel=00F7F7&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 
