@@ -2,11 +2,11 @@
 
 <!-- Animated Header -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:7B42F6&height=200&section=header&text=Yakshith&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6FD8,100:B983FF&height=200&section=header&text=Yakshith&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 <!-- Typing Animation -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=700&height=100&lines=Software+Developer+%F0%9F%92%BB;AI+%26+ML+Engineer+%F0%9F%A4%96;Python+Developer+%F0%9F%90%8D;Machine+Learning+Enthusiast+%F0%9F%8E%AF;Generative+AI+Explorer+%F0%9F%9A%80;Building+Innovative+Projects+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=FF6FD8&center=true&vCenter=true&random=false&width=700&height=100&lines=Software+Developer+%F0%9F%92%BB;AI+%26+ML+Engineer+%F0%9F%A4%96;Python+Developer+%F0%9F%90%8D;Machine+Learning+Enthusiast+%F0%9F%8E%AF;Generative+AI+Explorer+%F0%9F%9A%80;Building+Innovative+Projects+%F0%9F%94%A5" alt="Typing SVG" />
 
 <br>
 
@@ -39,7 +39,6 @@ const yakshith = {
     currentFocus: "AI & Machine Learning 🔭",
 
     learning: [
-        "Data Structures & Algorithms",
         "Generative AI",
         "System Design"
     ],
@@ -92,7 +91,7 @@ const yakshith = {
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG-7B42F6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-B983FF?style=for-the-badge"/>
 
 </div>
 
@@ -152,7 +151,7 @@ const yakshith = {
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YAKSHITH684&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=7B42F6&currStreakLabel=00F7F7&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YAKSHITH684&hide_border=true&background=0D1117&stroke=FF6FD8&ring=FF6FD8&fire=B983FF&currStreakLabel=FF6FD8&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 </div>
 
 <br>
