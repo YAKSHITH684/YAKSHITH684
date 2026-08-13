@@ -171,7 +171,6 @@ const yakshith = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YAKSHITH684&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF&langs_count=8" />
 
 </div>
 
@@ -192,7 +191,6 @@ const yakshith = {
 
 <!-- Animated Divider -->
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <!-- GitHub Snake -->
 
@@ -214,7 +212,6 @@ const yakshith = {
 
 ### 🚀 Keep Building. Keep Learning. Keep Growing.
 
-<img src="https://komarev.com/ghpvc/?username=YAKSHITH684&label=Profile%20Views&color=00F7F7&style=for-the-badge"/>
 
 </div>
 
