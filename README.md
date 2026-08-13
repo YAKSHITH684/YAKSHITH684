@@ -168,7 +168,7 @@ const yakshith = {
 <br>
 
 <div align="center">
-
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YAKSHITH684&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=7B42F6&currStreakLabel=00F7F7&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 
 </div>
 
