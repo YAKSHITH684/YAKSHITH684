@@ -173,8 +173,6 @@ const yakshith = {
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YAKSHITH684&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF&langs_count=8" />
 
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=YAKSHITH684&custom_title=Contribution%20Activity&hide_border=true&bg_color=0D1117&color=00F7F7&line=7B42F6&point=FFFFFF&area=true&area_color=00F7F7" />
-
 </div>
 
 <br>
