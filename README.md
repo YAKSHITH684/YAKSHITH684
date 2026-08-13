@@ -160,6 +160,7 @@ const yakshith = {
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YAKSHITH684&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=7B42F6&currStreakLabel=00F7F7&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 
 
 </div>
@@ -183,7 +184,6 @@ const yakshith = {
 
 <!-- Animated Divider -->
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 
 <!-- Animated Divider -->
